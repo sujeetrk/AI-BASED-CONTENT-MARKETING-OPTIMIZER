@@ -428,12 +428,8 @@ The **AutoRetrainer** also saves:
 ### 👨‍💼 Project Lead  
 - **Charan Teja Mangali** — Lead Developer, System Architect & Mentor
 
-### 🎓 Student Contributors  
-- **Student Name 1** — AI/ML Research Assistant  
-- **Student Name 2** — Module Developer (Content Engine)  
-- **Student Name 3** — Frontend & Streamlit UI Developer  
-- **Student Name 4** — Testing & QA Engineer  
-- **Student Name 5** — Documentation Assistant  
+### 🎓 Student Contributor
+- **SUJEETH R K** — AI/ML Research Assistant, Module Developer (Content Engine),  Frontend & Streamlit UI Developer,  Testing & QA Engineer,  Documentation Assistant .
 
 ---
 
